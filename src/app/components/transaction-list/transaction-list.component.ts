@@ -1,6 +1,7 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { Transaction } from '../../models/transaction';
 import { CommonModule } from '@angular/common';
+import { TransactionService } from '../../services/transaction.service';
 
 @Component({
   selector: 'app-transaction-list',
@@ -9,24 +10,25 @@ import { CommonModule } from '@angular/common';
   templateUrl: './transaction-list.component.html',
   styleUrl: './transaction-list.component.scss'
 })
-export class TransactionListComponent {
+export class TransactionListComponent implements OnInit {
+  transactions: Transaction[] = [];
+
+  constructor(private transactionService: TransactionService){}
   
-  transactions: Transaction[] = [
-    {
-      id:1,
-      createdAt: new Date(),
-      updatedAt: new Date(),
-      category: 'Food',
-      type: 'Expenses',
-      amount: 50
-    },
-    {
-      id:2,
-      createdAt: new Date(),
-      updatedAt: new Date(),
-      category: 'Food',
-      type: 'Expenses',
-      amount: 100
-    }
-  ];
+
+  ngOnInit(): void{
+    this.loadTransactions();
+  }
+
+  loadTransactions(): void{
+    this.transactionService.getAll()
+    .subscribe({
+      next: (data) => {
+        this.transactions = data;
+      },
+      error: (err) => {
+        console.log(`Error while getting all transactions ${err}`);
+      },
+    });
+  }
 }
