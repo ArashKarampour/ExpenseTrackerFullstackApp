@@ -31,4 +31,16 @@ export class TransactionListComponent implements OnInit {
       },
     });
   }
+
+  getTotalExpense(): number{
+    return this.transactions.filter(t => t.type == 'Expense').reduce((sum, expense) => sum + expense.amount, 0);
+  }
+
+  getTotalIncome(): number{
+    return this.transactions.filter(t => t.type == 'Income').reduce((sum, income) => sum + income.amount, 0);
+  }
+
+  getTotalBalance(): number{
+    return this.getTotalIncome() - this.getTotalExpense();
+  }
 }

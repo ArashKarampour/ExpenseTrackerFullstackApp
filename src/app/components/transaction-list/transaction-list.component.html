@@ -4,7 +4,7 @@
             <div class="card h-100 bg-success bg-opacity-75 text-white">
                 <div class="card-body">
                     <h5 class="card-title">Total Income</h5>
-                    <h3 class="card-text">0</h3>
+                    <h3 class="card-text">{{getTotalIncome()}}</h3>
                 </div>
             </div>
         </div>
@@ -13,16 +13,16 @@
             <div class="card h-100 bg-danger bg-opacity-75 text-white">
                 <div class="card-body">
                     <h5 class="card-title">Total Expenses</h5>
-                    <h3 class="card-text">0</h3>
+                    <h3 class="card-text">{{getTotalExpense()}}</h3>
                 </div>
             </div>
         </div>
 
         <div class="col-md-4">
-            <div class="card h-100 bg-success bg-opacity-75 text-white">
+            <div class="card h-100 bg-opacity-75 text-white" [ngClass]="getTotalBalance() >= 0 ? 'bg-success' : 'bg-danger'">
                 <div class="card-body">
                     <h5 class="card-title">Net Balance</h5>
-                    <h3 class="card-text">0</h3>
+                    <h3 class="card-text">{{getTotalBalance()}}</h3>
                 </div>
             </div>
         </div>
@@ -43,9 +43,12 @@
             <tbody>
                 <tr *ngFor="let transaction of transactions">
                     <td>{{transaction.createdAt}}</td> 
-                    <td>{{transaction.type}}</td> 
+                    <td [ngClass]="{
+                        'text-success' : transaction.type == 'Income',
+                        'text-danger' : transaction.type == 'Expense'
+                    }">{{transaction.type}}</td> 
                     <td>{{transaction.category}}</td> 
-                    <td>{{transaction.amount}}</td> 
+                    <td [ngClass]="transaction.type == 'Income' ? 'text-success' : 'text-danger'">{{transaction.amount | currency}}</td> 
                     <td>options</td> 
                 </tr>
             </tbody>
