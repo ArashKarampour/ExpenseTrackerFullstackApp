@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { Transaction } from '../../models/transaction';
 import { CommonModule } from '@angular/common';
 import { TransactionService } from '../../services/transaction.service';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-transaction-list',
@@ -13,7 +14,7 @@ import { TransactionService } from '../../services/transaction.service';
 export class TransactionListComponent implements OnInit {
   transactions: Transaction[] = [];
 
-  constructor(private transactionService: TransactionService){}
+  constructor(private transactionService: TransactionService, private router: Router){}
   
 
   ngOnInit(): void{
@@ -42,5 +43,11 @@ export class TransactionListComponent implements OnInit {
 
   getTotalBalance(): number{
     return this.getTotalIncome() - this.getTotalExpense();
+  }
+
+  editTransaction(transaction: Transaction) {
+    if(transaction.id){
+      this.router.navigate(["/edit/",transaction.id]);
+    }
   }
 }

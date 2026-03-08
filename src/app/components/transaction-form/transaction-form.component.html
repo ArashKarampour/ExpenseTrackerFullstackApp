@@ -4,7 +4,7 @@
             <div class="card shadow-sm">
                 <div class="card-header bg-lightly py-3">
                     <h3 class="card-title mb-0 fw-semibold">
-                        Add Transaction
+                        {{editMode ? 'Edit': 'Add'}} Transaction
                     </h3>
                 </div>
                 <div class="card-body p-4">
@@ -49,7 +49,7 @@
                         <!-- buttons -->
                         <div class="d-flex gap-3 justify-content-end mt-4">
                             <button type="button" class="btn btn-light btn-lg px-4" (click)="cancle()">Cancel</button>
-                            <button type="submit" class="btn btn-primary btn-lg px-4" [disabled]="!transactionsForm.valid">Add trabsaction</button>
+                            <button type="submit" class="btn btn-primary btn-lg px-4" [disabled]="!transactionsForm.valid">{{editMode ? 'Edit': 'Add'}} trabsaction</button>
                         </div>
                     </form>
                 </div>

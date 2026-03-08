@@ -49,7 +49,14 @@
                     }">{{transaction.type}}</td> 
                     <td>{{transaction.category}}</td> 
                     <td [ngClass]="transaction.type == 'Income' ? 'text-success' : 'text-danger'">{{transaction.amount | currency}}</td> 
-                    <td>options</td> 
+                    <td>
+                        <button 
+                        class="btn btn-sm btn-outline-primary me-1"
+                        (click)="editTransaction(transaction)"
+                        >
+                        <i class="bi bi-pencil"></i>
+                        </button>
+                    </td> 
                 </tr>
             </tbody>
         </table>
