@@ -1,1 +1,60 @@
-<p>transaction-form works!</p>
+<div class="container py-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8 col-lg-6">
+            <div class="card shadow-sm">
+                <div class="card-header bg-lightly py-3">
+                    <h3 class="card-title mb-0 fw-semibold">
+                        Add Transaction
+                    </h3>
+                </div>
+                <div class="card-body p-4">
+                    <form [formGroup]="transactionsForm" (ngSubmit)="onSubmit()">
+                        <!-- Transaction Type -->
+                        <div class="mb-4">
+                            <label for="type" class="form-label fw-medium">Type</label>
+                            <select
+                                id="type"
+                                formControlName="type"
+                                (change)="onTypeChange($event)"
+                                class="form-select form-select-lg">
+                                <option value="Income">Income</option>
+                                <option value="Expense">Expense</option>
+                            </select>
+                        </div>
+                        <!-- category -->
+                        <div class="mb-4">
+                            <label for="category" class="form-label fw-medium">Category</label>
+                            <select
+                                id="category"
+                                formControlName="category"
+                                class="form-select form-select-lg">
+                                
+                                <option *ngFor="let category of availableCategories" [value]="category">{{category}}</option>
+                            </select>
+                        </div>
+                        <!-- amount -->
+                        <div class="mb-4">
+                            <label for="amount" class="form-label fw-medium">Amount</label>
+                            <div class="input-group">
+                                <span class="input-group-text">$</span>
+                                <input type="number" id="amount" formControlName="amount" placeholder="0.00" class="form-control form-control-lg" />
+                            </div>
+                        </div>
+                        <!-- createdAt -->
+                        <!-- <div class="mb-4">
+                            <label for="createdAt" class="form-label fw-medium">Date</label>
+                            <input type="date" id="createdAt" formControlName="createdAt" class="form-control form-control-lg" />
+                        </div> -->
+
+                        <!-- buttons -->
+                        <div class="d-flex gap-3 justify-content-end mt-4">
+                            <button type="button" class="btn btn-light btn-lg px-4" (click)="cancle()">Cancel</button>
+                            <button type="submit" class="btn btn-primary btn-lg px-4" [disabled]="!transactionsForm.valid">Add trabsaction</button>
+                        </div>
+                    </form>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>

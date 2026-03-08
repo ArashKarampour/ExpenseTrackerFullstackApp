@@ -42,7 +42,7 @@
             </thead>
             <tbody>
                 <tr *ngFor="let transaction of transactions">
-                    <td>{{transaction.createdAt}}</td> 
+                    <td>{{transaction.createdAt | date}}</td> 
                     <td [ngClass]="{
                         'text-success' : transaction.type == 'Income',
                         'text-danger' : transaction.type == 'Expense'
