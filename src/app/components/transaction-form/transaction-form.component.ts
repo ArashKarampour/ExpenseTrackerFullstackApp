@@ -2,6 +2,7 @@ import { CommonModule } from '@angular/common';
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, ReactiveFormsModule, Validators } from '@angular/forms';
 import { Router } from '@angular/router';
+import { TransactionService } from '../../services/transaction.service';
 
 @Component({
   selector: 'app-transaction-form',
@@ -18,7 +19,7 @@ export class TransactionFormComponent implements OnInit {
   
   availableCategories: string[] = [];
   
-  constructor(private fb: FormBuilder, private router : Router) {
+  constructor(private fb: FormBuilder, private router : Router, private transactionService: TransactionService) {
     this.transactionsForm = this.fb.group({
       type: ['Expense', Validators.required],
       category: ['', Validators.required],
@@ -32,7 +33,12 @@ export class TransactionFormComponent implements OnInit {
   }
   
   onSubmit() {
-    throw new Error('Method not implemented.');
+    if(this.transactionsForm.valid){
+      this.transactionService.create(this.transactionsForm.value).subscribe((data) => {
+        console.log('Transaction created successfully', data);
+        this.router.navigate(['/transactions']);
+      });
+    }
   }
 
   cancle() {
