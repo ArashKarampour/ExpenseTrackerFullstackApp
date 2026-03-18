@@ -23,7 +23,7 @@ export class AuthService {
   }
 
   register(credentials: User): Observable<AuthResponse> {
-    return this.http.post<AuthResponse>(`${this.apiUrl}/Login`, credentials)
+    return this.http.post<AuthResponse>(`${this.apiUrl}/Register`, credentials)
     .pipe(
       tap((response) => {
         localStorage.setItem('token', response.token);
