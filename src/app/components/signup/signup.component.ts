@@ -12,7 +12,8 @@ import { AuthService } from '../../services/auth.service';
   styleUrl: './signup.component.scss'
 })
 export class SignupComponent {
-  signUpForm: FormGroup
+  signUpForm: FormGroup;
+  errorMessage: string | null = null;
   
   constructor(private fb: FormBuilder, private authService: AuthService, private router: Router) {
     this.signUpForm = this.fb.group(
@@ -31,8 +32,16 @@ export class SignupComponent {
     passwordMatchValidator(control : AbstractControl): ValidationErrors | null { // null means no error, otherwise return an object with the error name and value
       return control.get('confirmPassword')?.value == control.get('password')?.value ? null : { passwordMismatch: true };
     }
+
+    hasError(controlName: string, errorName: string): boolean {
+      const control = this.signUpForm.get(controlName);
+      return control ? (control.dirty || control.touched) && control.hasError(errorName)  : false;
+    }
     
     onSubmit() {
+
+      this.errorMessage = null; // reset error message on new submission
+
       if(this.signUpForm.valid){
         const signupData = this.signUpForm.value;
         this.authService.register(signupData)
@@ -42,6 +51,7 @@ export class SignupComponent {
           },
           error: (err) => {
             console.log(`Error while signing up ${err}`);
+            this.errorMessage = err.error?.message || 'An error occurred during sign up. Please try again.';
           }
         });
       }
