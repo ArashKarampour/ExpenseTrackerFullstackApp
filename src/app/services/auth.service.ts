@@ -3,7 +3,7 @@ import { Injectable } from '@angular/core';
 import { User } from '../models/user';
 import { Observable, tap } from 'rxjs';
 import { AuthResponse } from '../models/authresponse';
-import { Router } from '@angular/router';
+import { RedirectCommand, Router, MaybeAsync, GuardResult } from '@angular/router';
 
 @Injectable({
   providedIn: 'root'
@@ -33,5 +33,9 @@ export class AuthService {
   logout(): void {
     localStorage.removeItem('token');
     this.router.navigate(['/login']);
+  }
+
+  isAuthenticated(): boolean {
+    return !!localStorage.getItem('token');
   }
 }
