@@ -28,7 +28,10 @@ export class TransactionListComponent implements OnInit {
         this.transactions = data;
       },
       error: (err) => {
-        console.log(`Error while getting all transactions ${err}`);
+        console.log(`Error while getting all transactions ${err.message}`);
+        if(err.status === 401){ // if the error status is 401, it means the user is unauthorized, so we redirect them to the login page. This can happen if the user's token has expired or is invalid, and they need to log in again to get a new token.
+          this.router.navigate(['/login']);
+        }
       },
     });
   }
