@@ -1,0 +1,117 @@
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\appsettings.Development.json
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\appsettings.json
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Expenses API.staticwebassets.endpoints.json
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Expenses API.exe
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Expenses API.deps.json
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Expenses API.runtimeconfig.json
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Expenses API.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Expenses API.pdb
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\obj\Debug\net8.0\Expenses API.csproj.AssemblyReference.cache
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\obj\Debug\net8.0\Expenses API.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\obj\Debug\net8.0\Expenses API.AssemblyInfoInputs.cache
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\obj\Debug\net8.0\Expenses API.AssemblyInfo.cs
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\obj\Debug\net8.0\Expenses API.csproj.CoreCompileInputs.cache
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\obj\Debug\net8.0\Expenses API.MvcApplicationPartsAssemblyInfo.cs
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\obj\Debug\net8.0\Expenses API.MvcApplicationPartsAssemblyInfo.cache
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\obj\Debug\net8.0\scopedcss\bundle\Expenses API.styles.css
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\obj\Debug\net8.0\staticwebassets.build.json
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\obj\Debug\net8.0\staticwebassets.development.json
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\obj\Debug\net8.0\Expenses.2D5122FD.Up2Date
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\obj\Debug\net8.0\Expenses API.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\obj\Debug\net8.0\refint\Expenses API.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\obj\Debug\net8.0\Expenses API.pdb
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\obj\Debug\net8.0\Expenses API.genruntimeconfig.cache
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\obj\Debug\net8.0\ref\Expenses API.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Humanizer.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\MySqlConnector.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\System.CodeDom.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\MyUserContents\Learning\LinkedinLearningCourses\Angular and ASP.NET Web API Apps 2025-5\Project\ExpensesApp\Expenses API\Expenses API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyUserContents\\Learning\\LinkedinLearningCourses\\Angular and ASP.NET Web API Apps 2025-5\\Project\\ExpensesApp\\Expenses API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF0A1EC-0759-462E-9DE3-CB6D11478514}|Expenses API\\Expenses API.csproj|c:\\myusercontents\\learning\\linkedinlearningcourses\\angular and asp.net web api apps 2025-5\\project\\expensesapp\\expenses api\\expenses api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF0A1EC-0759-462E-9DE3-CB6D11478514}|Expenses API\\Expenses API.csproj|solutionrelative:expenses api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF0A1EC-0759-462E-9DE3-CB6D11478514}|Expenses API\\Expenses API.csproj|c:\\myusercontents\\learning\\linkedinlearningcourses\\angular and asp.net web api apps 2025-5\\project\\expensesapp\\expenses api\\expenses api\\data\\services\\transactionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF0A1EC-0759-462E-9DE3-CB6D11478514}|Expenses API\\Expenses API.csproj|solutionrelative:expenses api\\data\\services\\transactionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF0A1EC-0759-462E-9DE3-CB6D11478514}|Expenses API\\Expenses API.csproj|c:\\myusercontents\\learning\\linkedinlearningcourses\\angular and asp.net web api apps 2025-5\\project\\expensesapp\\expenses api\\expenses api\\dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF0A1EC-0759-462E-9DE3-CB6D11478514}|Expenses API\\Expenses API.csproj|solutionrelative:expenses api\\dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF0A1EC-0759-462E-9DE3-CB6D11478514}|Expenses API\\Expenses API.csproj|c:\\myusercontents\\learning\\linkedinlearningcourses\\angular and asp.net web api apps 2025-5\\project\\expensesapp\\expenses api\\expenses api\\dtos\\posttransactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF0A1EC-0759-462E-9DE3-CB6D11478514}|Expenses API\\Expenses API.csproj|solutionrelative:expenses api\\dtos\\posttransactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF0A1EC-0759-462E-9DE3-CB6D11478514}|Expenses API\\Expenses API.csproj|c:\\myusercontents\\learning\\linkedinlearningcourses\\angular and asp.net web api apps 2025-5\\project\\expensesapp\\expenses api\\expenses api\\dtos\\puttransactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF0A1EC-0759-462E-9DE3-CB6D11478514}|Expenses API\\Expenses API.csproj|solutionrelative:expenses api\\dtos\\puttransactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF0A1EC-0759-462E-9DE3-CB6D11478514}|Expenses API\\Expenses API.csproj|c:\\myusercontents\\learning\\linkedinlearningcourses\\angular and asp.net web api apps 2025-5\\project\\expensesapp\\expenses api\\expenses api\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF0A1EC-0759-462E-9DE3-CB6D11478514}|Expenses API\\Expenses API.csproj|solutionrelative:expenses api\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "C:\\MyUserContents\\Learning\\LinkedinLearningCourses\\Angular and ASP.NET Web API Apps 2025-5\\Project\\ExpensesApp\\Expenses API\\Expenses API\\Dtos\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "Expenses API\\Dtos\\RegisterUserDto.cs",
+              "ToolTip": "C:\\MyUserContents\\Learning\\LinkedinLearningCourses\\Angular and ASP.NET Web API Apps 2025-5\\Project\\ExpensesApp\\Expenses API\\Expenses API\\Dtos\\RegisterUserDto.cs",
+              "RelativeToolTip": "Expenses API\\Dtos\\RegisterUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T17:38:52.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PutTransactionDto.cs",
+              "DocumentMoniker": "C:\\MyUserContents\\Learning\\LinkedinLearningCourses\\Angular and ASP.NET Web API Apps 2025-5\\Project\\ExpensesApp\\Expenses API\\Expenses API\\Dtos\\PutTransactionDto.cs",
+              "RelativeDocumentMoniker": "Expenses API\\Dtos\\PutTransactionDto.cs",
+              "ToolTip": "C:\\MyUserContents\\Learning\\LinkedinLearningCourses\\Angular and ASP.NET Web API Apps 2025-5\\Project\\ExpensesApp\\Expenses API\\Expenses API\\Dtos\\PutTransactionDto.cs",
+              "RelativeToolTip": "Expenses API\\Dtos\\PutTransactionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T17:38:50.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostTransactionDto.cs",
+              "DocumentMoniker": "C:\\MyUserContents\\Learning\\LinkedinLearningCourses\\Angular and ASP.NET Web API Apps 2025-5\\Project\\ExpensesApp\\Expenses API\\Expenses API\\Dtos\\PostTransactionDto.cs",
+              "RelativeDocumentMoniker": "Expenses API\\Dtos\\PostTransactionDto.cs",
+              "ToolTip": "C:\\MyUserContents\\Learning\\LinkedinLearningCourses\\Angular and ASP.NET Web API Apps 2025-5\\Project\\ExpensesApp\\Expenses API\\Expenses API\\Dtos\\PostTransactionDto.cs",
+              "RelativeToolTip": "Expenses API\\Dtos\\PostTransactionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T17:38:48.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginUserDto.cs",
+              "DocumentMoniker": "C:\\MyUserContents\\Learning\\LinkedinLearningCourses\\Angular and ASP.NET Web API Apps 2025-5\\Project\\ExpensesApp\\Expenses API\\Expenses API\\Dtos\\LoginUserDto.cs",
+              "RelativeDocumentMoniker": "Expenses API\\Dtos\\LoginUserDto.cs",
+              "ToolTip": "C:\\MyUserContents\\Learning\\LinkedinLearningCourses\\Angular and ASP.NET Web API Apps 2025-5\\Project\\ExpensesApp\\Expenses API\\Expenses API\\Dtos\\LoginUserDto.cs",
+              "RelativeToolTip": "Expenses API\\Dtos\\LoginUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T17:38:31.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionsService.cs",
+              "DocumentMoniker": "C:\\MyUserContents\\Learning\\LinkedinLearningCourses\\Angular and ASP.NET Web API Apps 2025-5\\Project\\ExpensesApp\\Expenses API\\Expenses API\\Data\\Services\\TransactionsService.cs",
+              "RelativeDocumentMoniker": "Expenses API\\Data\\Services\\TransactionsService.cs",
+              "ToolTip": "C:\\MyUserContents\\Learning\\LinkedinLearningCourses\\Angular and ASP.NET Web API Apps 2025-5\\Project\\ExpensesApp\\Expenses API\\Expenses API\\Data\\Services\\TransactionsService.cs",
+              "RelativeToolTip": "Expenses API\\Data\\Services\\TransactionsService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wC8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T17:29:25.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\MyUserContents\\Learning\\LinkedinLearningCourses\\Angular and ASP.NET Web API Apps 2025-5\\Project\\ExpensesApp\\Expenses API\\Expenses API\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "Expenses API\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\MyUserContents\\Learning\\LinkedinLearningCourses\\Angular and ASP.NET Web API Apps 2025-5\\Project\\ExpensesApp\\Expenses API\\Expenses API\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "Expenses API\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAYwA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:30:34.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
