@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyUserContents\\Learning\\LinkedinLearningCourses\\Angular and ASP.NET Web API Apps 2025-5\\Project\\ExpensesApp\\Expenses API\\Expenses API\\Expenses API.csproj": {}
+    "C:\\MyUserContents\\Learning\\LinkedinLearningCourses\\Angular and ASP.NET Web API Apps 2025-5\\Project\\ExpensesApp - toPush\\Expenses API\\Expenses API\\Expenses API.csproj": {}
   },
   "projects": {
-    "C:\\MyUserContents\\Learning\\LinkedinLearningCourses\\Angular and ASP.NET Web API Apps 2025-5\\Project\\ExpensesApp\\Expenses API\\Expenses API\\Expenses API.csproj": {
+    "C:\\MyUserContents\\Learning\\LinkedinLearningCourses\\Angular and ASP.NET Web API Apps 2025-5\\Project\\ExpensesApp - toPush\\Expenses API\\Expenses API\\Expenses API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyUserContents\\Learning\\LinkedinLearningCourses\\Angular and ASP.NET Web API Apps 2025-5\\Project\\ExpensesApp\\Expenses API\\Expenses API\\Expenses API.csproj",
+        "projectUniqueName": "C:\\MyUserContents\\Learning\\LinkedinLearningCourses\\Angular and ASP.NET Web API Apps 2025-5\\Project\\ExpensesApp - toPush\\Expenses API\\Expenses API\\Expenses API.csproj",
         "projectName": "Expenses API",
-        "projectPath": "C:\\MyUserContents\\Learning\\LinkedinLearningCourses\\Angular and ASP.NET Web API Apps 2025-5\\Project\\ExpensesApp\\Expenses API\\Expenses API\\Expenses API.csproj",
+        "projectPath": "C:\\MyUserContents\\Learning\\LinkedinLearningCourses\\Angular and ASP.NET Web API Apps 2025-5\\Project\\ExpensesApp - toPush\\Expenses API\\Expenses API\\Expenses API.csproj",
         "packagesPath": "C:\\Users\\karam\\.nuget\\packages\\",
-        "outputPath": "C:\\MyUserContents\\Learning\\LinkedinLearningCourses\\Angular and ASP.NET Web API Apps 2025-5\\Project\\ExpensesApp\\Expenses API\\Expenses API\\obj\\",
+        "outputPath": "C:\\MyUserContents\\Learning\\LinkedinLearningCourses\\Angular and ASP.NET Web API Apps 2025-5\\Project\\ExpensesApp - toPush\\Expenses API\\Expenses API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

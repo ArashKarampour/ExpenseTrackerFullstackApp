@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mak8DiQP7TQ=",
+  "dgSpecHash": "PV2ABFaj8Nw=",
   "success": true,
-  "projectFilePath": "C:\\MyUserContents\\Learning\\LinkedinLearningCourses\\Angular and ASP.NET Web API Apps 2025-5\\Project\\ExpensesApp\\Expenses API\\Expenses API\\Expenses API.csproj",
+  "projectFilePath": "C:\\MyUserContents\\Learning\\LinkedinLearningCourses\\Angular and ASP.NET Web API Apps 2025-5\\Project\\ExpensesApp - toPush\\Expenses API\\Expenses API\\Expenses API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\karam\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\karam\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.25\\microsoft.aspnetcore.authentication.jwtbearer.8.0.25.nupkg.sha512",
